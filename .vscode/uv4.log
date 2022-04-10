@@ -1,0 +1,4 @@
+Load "f:\\SmartCar\\NXP_Lab_Demo\\flexspi_nor_sdram_release\\NXP_Demo.out" 
+RDDI-DAP Error
+Error: Flash Download failed  -  Target DLL has been cancelled
+Flash Load finished at 19:20:56
